@@ -38,3 +38,6 @@ yarn-error.log*
 .netlify
 
 _static
+# token
+token.txt
+# force git ignore git rm --cached
